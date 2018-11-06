@@ -1,1 +1,7 @@
-# HTML-Fundamentals
+# About
+
+- Muhammad Azhar Rasyad
+
+# Referensi
+
+- https://www.sololearn.com/Course/HTML/
